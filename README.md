@@ -1,2 +1,3 @@
 # hello-world
-Start of something graet
+Start of something great
+Bla Bla Bla
